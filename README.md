@@ -1,4 +1,4 @@
-# southpow-media
+# SouthPow Media
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,128 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-southpow-media is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://southpow.media/
+SouthPow Media is a performance marketing agency headquartered in Hong Kong, specializing in lead generation. Founded in 2018, they deliver qualified, AI‑powered leads across 15+ countries and 8 industry verticals, supporting multiple languages and offering custom funnel development, real‑time reporting, and API delivery of verified contacts.
+
+**Areas:** Lead Generation · Marketing · AI · Hong Kong · B2B
+
+## SouthPow Media on APIs.io
+
+Everything profiled for SouthPow Media is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/southpow-media/](https://apis.io/providers/southpow-media/)** — or go straight to one of the APIs or properties below.
+
+### APIs (36)
+
+- [SouthPow Media 10 K API](https://apis.io/apis/southpow-media/southpow-media-10-k-api/) — The 10-k API from SouthPow Media — 1 operation(s) for 10-k.
+- [SouthPow Media 10 Q API](https://apis.io/apis/southpow-media/southpow-media-10-q-api/) — The 10-q API from SouthPow Media — 1 operation(s) for 10-q.
+- [SouthPow Media Aapl API](https://apis.io/apis/southpow-media/southpow-media-aapl-api/) — The aapl API from SouthPow Media — 1 operation(s) for aapl.
+- [SouthPow Media Audit API](https://apis.io/apis/southpow-media/southpow-media-audit-api/) — The Audit API from SouthPow Media — 4 operation(s) for audit.
+- [SouthPow Media Crypto Price API](https://apis.io/apis/southpow-media/southpow-media-crypto-price-api/) — The Crypto Price API from SouthPow Media — 1 operation(s) for crypto price.
+- [SouthPow Media Crypto Prices API](https://apis.io/apis/southpow-media/southpow-media-crypto-prices-api/) — The Crypto Prices API from SouthPow Media — 20 operation(s) for crypto prices.
+- [SouthPow Media Defillama API](https://apis.io/apis/southpow-media/southpow-media-defillama-api/) — The Defillama API from SouthPow Media — 61 operation(s) for defillama.
+- [SouthPow Media Domain API](https://apis.io/apis/southpow-media/southpow-media-domain-api/) — The Domain API from SouthPow Media — 2 operation(s) for domain.
+- [SouthPow Media Economic API](https://apis.io/apis/southpow-media/southpow-media-economic-api/) — The Economic API from SouthPow Media — 50 operation(s) for economic.
+- [SouthPow Media Edgar API](https://apis.io/apis/southpow-media/southpow-media-edgar-api/) — The edgar API from SouthPow Media — 1 operation(s) for edgar.
+- [SouthPow Media Email API](https://apis.io/apis/southpow-media/southpow-media-email-api/) — The Email API from SouthPow Media — 1 operation(s) for email.
+- [SouthPow Media Fear Greed API](https://apis.io/apis/southpow-media/southpow-media-fear-greed-api/) — The Fear Greed API from SouthPow Media — 4 operation(s) for fear greed.
+- [SouthPow Media Fetch API](https://apis.io/apis/southpow-media/southpow-media-fetch-api/) — The Fetch API from SouthPow Media — 4 operation(s) for fetch.
+- [SouthPow Media Filing API](https://apis.io/apis/southpow-media/southpow-media-filing-api/) — The filing API from SouthPow Media — 1 operation(s) for filing.
+- [SouthPow Media Forex Rates API](https://apis.io/apis/southpow-media/southpow-media-forex-rates-api/) — The Forex Rates API from SouthPow Media — 87 operation(s) for forex rates.
+- [SouthPow Media Health API](https://apis.io/apis/southpow-media/southpow-media-health-api/) — The Health API from SouthPow Media — 1 operation(s) for health.
+- [SouthPow Media Health Check API](https://apis.io/apis/southpow-media/southpow-media-health-check-api/) — The Health Check API from SouthPow Media — 1 operation(s) for health check.
+- [SouthPow Media Hn API](https://apis.io/apis/southpow-media/southpow-media-hn-api/) — The Hn API from SouthPow Media — 26 operation(s) for hn.
+- [SouthPow Media Insider Buys API](https://apis.io/apis/southpow-media/southpow-media-insider-buys-api/) — The Insider Buys API from SouthPow Media — 50 operation(s) for insider buys.
+- [SouthPow Media Ip API](https://apis.io/apis/southpow-media/southpow-media-ip-api/) — The Ip API from SouthPow Media — 1 operation(s) for ip.
+- [SouthPow Media Ping API](https://apis.io/apis/southpow-media/southpow-media-ping-api/) — The Ping API from SouthPow Media — 1 operation(s) for ping.
+- [SouthPow Media Pm API](https://apis.io/apis/southpow-media/southpow-media-pm-api/) — The Pm API from SouthPow Media — 2 operation(s) for pm.
+- [SouthPow Media Polymarket API](https://apis.io/apis/southpow-media/southpow-media-polymarket-api/) — The Polymarket API from SouthPow Media — 28 operation(s) for polymarket.
+- [SouthPow Media Price API](https://apis.io/apis/southpow-media/southpow-media-price-api/) — The Price API from SouthPow Media — 1300 operation(s) for price.
+- [SouthPow Media Rss API](https://apis.io/apis/southpow-media/southpow-media-rss-api/) — The Rss API from SouthPow Media — 1 operation(s) for rss.
+- [SouthPow Media Schema API](https://apis.io/apis/southpow-media/southpow-media-schema-api/) — The Schema API from SouthPow Media — 1 operation(s) for schema.
+- [SouthPow Media Scrape API](https://apis.io/apis/southpow-media/southpow-media-scrape-api/) — The Scrape API from SouthPow Media — 2 operation(s) for scrape.
+- [SouthPow Media Search API](https://apis.io/apis/southpow-media/southpow-media-search-api/) — The Search API from SouthPow Media — 1 operation(s) for search.
+- [SouthPow Media Sec API](https://apis.io/apis/southpow-media/southpow-media-sec-api/) — The sec API from SouthPow Media — 1 operation(s) for sec.
+- [SouthPow Media Sec Filings API](https://apis.io/apis/southpow-media/southpow-media-sec-filings-api/) — The sec-filings API from SouthPow Media — 1 operation(s) for sec-filings.
+- [SouthPow Media Ssl API](https://apis.io/apis/southpow-media/southpow-media-ssl-api/) — The Ssl API from SouthPow Media — 1 operation(s) for ssl.
+- [SouthPow Media Stablecoins API](https://apis.io/apis/southpow-media/southpow-media-stablecoins-api/) — The Stablecoins API from SouthPow Media — 40 operation(s) for stablecoins.
+- [SouthPow Media Stock API](https://apis.io/apis/southpow-media/southpow-media-stock-api/) — The stock API from SouthPow Media — 1 operation(s) for stock.
+- [SouthPow Media Tools API](https://apis.io/apis/southpow-media/southpow-media-tools-api/) — The Tools API from SouthPow Media — 1 operation(s) for tools.
+- [SouthPow Media Website API](https://apis.io/apis/southpow-media/southpow-media-website-api/) — The Website API from SouthPow Media — 1 operation(s) for website.
+- [SouthPow Media Yields API](https://apis.io/apis/southpow-media/southpow-media-yields-api/) — The Yields API from SouthPow Media — 252 operation(s) for yields.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [SouthPow Media API Rules](https://apis.io/rules/southpow-media/southpow-media-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SouthPow Media Domain Security](https://apis.io/security/southpow-media/southpow-media-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://southpow.media/)
+- [Blog](https://southpow.media/blog/)
+
+## API Evangelist rating
+
+**Kin Score 27.6** — thin · rubric 0.27.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 61.7 |
+| Contract quality | 43.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 8.8 |
+| Access clarity | 0.0 |
+
+**Agent readiness 25.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | near-conformant (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/southpow-media/](https://apis.io/providers/southpow-media/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SouthPow Media: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/southpow-media/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
